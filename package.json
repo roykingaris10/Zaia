@@ -1,0 +1,16 @@
+{
+  "name": "zaiafolder",
+  "version": "1.0.0",
+  "description": "A.I for Zaia",
+  "license": "ISC",
+  "author": "Zero & Royking",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "zaiaTest"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {}
+}
